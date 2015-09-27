@@ -1,0 +1,2 @@
+# OlaHackathon-NITKCheeteh-
+Create a solution to alert the User and his/her emergency contacts in case the cab is deviating from the expected/specified path.Before generating the alert to the emergency contacts, it will notify the user if he/she is really feeling suspicious and wants to raise emergency alerts. In alert notification, system will send the Cab location along with trip details to local police station and service provider as well.
