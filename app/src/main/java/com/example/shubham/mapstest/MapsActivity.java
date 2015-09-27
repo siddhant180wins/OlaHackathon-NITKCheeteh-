@@ -277,11 +277,11 @@ public class MapsActivity extends FragmentActivity implements LocationListener {
                     System.out.println("result=" + str);
 
                 } catch (Exception e) {
-                    System.out.println("Choti asada");
+             
                 }
             } catch (Exception e) {
                 e.printStackTrace();
-                System.out.println("Tero maa kaa");
+             
             }
             return str;
         }
